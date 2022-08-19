@@ -1,2 +1,2 @@
 # ipyx
-A new, simple, optimised debug cog for discord.py.
+A repository for Python Packages, not including any packages hosted on PyPI (Python Packaging Index).
